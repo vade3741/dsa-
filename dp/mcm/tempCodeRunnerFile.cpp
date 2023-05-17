@@ -1,0 +1,1 @@
+cout<<solve(n,e);
